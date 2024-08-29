@@ -1,2 +1,2 @@
-# Infostart Extension Library (library_extension)
+# Infostart Extension Library
 
