@@ -30,4 +30,4 @@
 и [Infostart DataFormWizard (УДиФ)](https://infostart.ru/marketplace/udif/), а также решения перепродающие библиотеку.
 
 ## Проекты использующие библиотеку
-[Infostart DataFormWizard] (https://infostart.ru/marketplace/udif/)
+* [Infostart DataFormWizard](https://github.com/Evg-lylyk/udif)
