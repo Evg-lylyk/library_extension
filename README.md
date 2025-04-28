@@ -28,3 +28,6 @@
 
 Не приветствуется конкуренция с решениями [Infostart Toolkit](https://infostart.ru/marketplace/toolkit/)
 и [Infostart DataFormWizard (УДиФ)](https://infostart.ru/marketplace/udif/), а также решения перепродающие библиотеку.
+
+## Проекты использующие библиотеку
+[Infostart DataFormWizard] (https://infostart.ru/marketplace/udif/)
